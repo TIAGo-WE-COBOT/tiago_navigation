@@ -2,6 +2,9 @@
 Changelog for package tiago_rgbd_sensors
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.2.0 (2023-12-18)
+------------------
+
 2.1.18 (2023-05-09)
 -------------------
 * Merge branch 'fix/cpu_load' into 'erbium-devel'
